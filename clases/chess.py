@@ -1,0 +1,2 @@
+# chess players information class
+
