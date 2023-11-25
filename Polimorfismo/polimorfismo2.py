@@ -3,8 +3,8 @@ def recorrer(elemento):
         print(f"El elemento actual es {item}")
 
 
-lista = [1,2,3,4]
+lista = [1, 2, 3, 4]
 
-lista2 = ["hola","como","estas"]
+lista2 = ["hola", "como", "estas"]
 
 recorrer(lista)

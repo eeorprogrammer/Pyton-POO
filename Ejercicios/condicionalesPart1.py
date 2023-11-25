@@ -2,7 +2,7 @@ print("--- PROGRAMA PARA DETERMINAR SI UNA PERSONA PUEDE VOTAR EN LAS PROXIMAS E
 
 edad_persona = int(input("¿ Que edad tienes ? "))
 
-if edad_persona>=18:
+if edad_persona >= 18:
     print("Puedes votar en las proximas elecciones")
 else:
     print("No puedes votar en las proximas elecciones")
