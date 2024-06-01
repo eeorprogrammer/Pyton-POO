@@ -5,7 +5,7 @@ buscar = 10
 for numero in range(5):
     print(numero)
     if numero == buscar:
-        print("Numero Encontrado:", buscar)
+        print("Numero par Encontrado para la prueba:", buscar)
         break
 else:
     print("No se encontro el numero buscado ):")
